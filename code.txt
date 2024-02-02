@@ -1,0 +1,19 @@
+<?php
+try {
+    // Connexion à la base de données
+    $pdo = new PDO('mysql:host=adresse_ip;dbname=nom_de_la_base_de_donnees', 'utilisateur', 'mot_de_passe');
+
+    // Définition de l'attribut PDO pour les exceptions
+    $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+
+    // Lecture du fichier SQL
+    $sql = file_get_contents("/chemin/vers/le/fichier.sql");
+
+    // Exécution des instructions SQL
+    $pdo->exec($sql);
+
+    echo "Instructions SQL exécutées avec succès";
+} catch (PDOException $e) {
+    echo "Erreur lors de l'exécution des instructions SQL : " . $e->getMessage();
+}
+?>

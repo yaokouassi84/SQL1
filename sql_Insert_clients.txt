@@ -1,0 +1,9 @@
+INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('ALLA','Kouadio','1972-10-30','M');
+INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('YAO','Affoué','1980-03-13','F');
+INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('CORDONNIER','Jessica','1979-03-27','F');
+INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('DEHOUCKE','Fabien','1975-05-22','M');
+INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('VAN','Franck','1984-01-01','M');
+INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('GATAI','Adrien','1994-08-25','M');
+INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('AMSA','Burki','1978-06-17','M');
+INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('MO','Kossia','1983-12-01','F');
+INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('BLE','Louis','1975-03-13','M');

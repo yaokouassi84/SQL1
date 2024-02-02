@@ -1,0 +1,2 @@
+INSERT INTO `achat`( `client_id`, `libelle`, `qte`, `prix_unitaire`, `dateAchat`) VALUES ('1','Cahiers','154','25','2024-02-025');
+INSERT INTO `achat`( `client_id`, `libelle`, `qte`, `prix_unitaire`, `dateAchat`) VALUES ('1','Cahiers','154','25','2024-02-025');

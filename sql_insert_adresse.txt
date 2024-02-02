@@ -1,0 +1,7 @@
+
+INSERT INTO `adresse`(`client_id`, `numero_maison`, `nomVoie`, `ville`, `code_postal`, `pays`) VALUES ('2','79','rue du Dr Lemaitre','Marck','62730','France');
+INSERT INTO `adresse`(`client_id`, `numero_maison`, `nomVoie`, `ville`, `code_postal`, `pays`) VALUES ('4','70','rue Van Grutten','Calais','62100','France');
+INSERT INTO `adresse`(`client_id`, `numero_maison`, `nomVoie`, `ville`, `code_postal`, `pays`) VALUES ('2','79','rue du Dr Lemaitre','Marck','62730','France');
+INSERT INTO `adresse`(`client_id`, `numero_maison`, `nomVoie`, `ville`, `code_postal`, `pays`) VALUES ('3','70','rue Van Grutten','Calais','62100','France');
+INSERT INTO `adresse`(`client_id`, `numero_maison`, `nomVoie`, `ville`, `code_postal`, `pays`) VALUES ('2','79','rue du Dr Lemaitre','Marck','62730','France');
+INSERT INTO `adresse`(`client_id`, `numero_maison`, `nomVoie`, `ville`, `code_postal`, `pays`) VALUES ('1','70','rue Van Grutten','Calais','62100','France')
