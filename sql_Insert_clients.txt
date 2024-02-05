@@ -7,3 +7,12 @@ INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('GATAI'
 INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('AMSA','Burki','1978-06-17','M');
 INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('MO','Kossia','1983-12-01','F');
 INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('BLE','Louis','1975-03-13','M');
+INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('ABOUBAKAR','Vincent','1972-10-30','M');
+INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('JOSEPHINE','amoin','1989-03-13','F');
+INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('CORDONNIER','Christine','1965-03-27','F');
+INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('OLIVIER','Konan','1999-05-22','M');
+INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('traore','Bertrand','1986-01-01','M');
+INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('GATo','Adrien','1994-08-25','M');
+INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('LAMSA','Burkier','1978-06-17','M');
+INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('MOA','Klissia','1983-12-01','F');
+INSERT INTO `clients`(`nom`, `prenom`, `date_naissance`, `sexe`) VALUES ('BLEazer','Louise','1975-03-13','F');
